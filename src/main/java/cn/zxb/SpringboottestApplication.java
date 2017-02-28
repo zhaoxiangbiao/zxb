@@ -11,7 +11,8 @@ public class SpringboottestApplication {
 	
 	@RequestMapping("/")
     String home(){
-		System.out.println("gag");
+		System.out.println("zhaoxiangbiap");
+		
         return "hello spring boot";
     }
 
